@@ -1,4 +1,4 @@
-# Pandas Challenge
+# Pandas_Data_Analysis
 
 ## Overview
 This project will look at schools in a district and evaluate student math and reading scores.  
